@@ -6,15 +6,15 @@ An automated GitHub Workflow designed for repository templates that instantly up
 
 ## 📑 Index
 
-- ✨ [Features](#features)
-- 📋 [Prerequisites](#prerequisites)
-- 🛠️ [Installation](#️installation)
-- ⚙️ [Configuration](#️configuration)
-- 🚀 [Usage](#usage)
-- 🤝 [Contributing](#contributing)
-- 🛡️ [Security](#️security)
-- ❤️ [Support](#️support)
-- ⚖️ [License](#️license)
+- ✨ [Features](#-features)
+- 📋 [Prerequisites](#-prerequisites)
+- 🛠️ [Installation](#️-installation)
+- ⚙️ [Configuration](#️-configuration)
+- 🚀 [Usage](#-usage)
+- 🤝 [Contributing](#-contributing)
+- 🛡️ [Security](#️-security)
+- ❤️ [Support](#️-support)
+- ⚖️ [License](#️-license)
 
 ## ✨ Features
 
