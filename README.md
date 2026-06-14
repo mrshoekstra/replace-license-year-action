@@ -1,6 +1,8 @@
 # 📅 Replace License Year Action <picture><img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25"></picture> <picture><img alt="YAML" src="https://img.shields.io/badge/YAML-cb3e35"></picture>
 
+<!-- DESCRIPTION START-->
 An automated GitHub Workflow designed for repository templates that instantly updates your license file with the current year upon instantiation. The workflow uses dynamic path resolution to safely delete itself and recursively clean up its parent directories after execution, leaving your new repository production-ready.
+<!-- DESCRIPTION END-->
 
 ## 📑 Index
 
