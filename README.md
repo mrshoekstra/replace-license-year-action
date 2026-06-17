@@ -35,7 +35,7 @@ Before deploying this workflow, ensure your development environment satisfies th
 To integrate this automated action into your repository template, execute the following configuration steps:
 
 1. Create the workflow directory path in your repository: `.github/workflows/`.
-2. Define the automation rules by populating your workflow configuration file directly within that folder (e.g., `.github/workflows/replace-license-year.yml`).
+2. Define the automation rules by populating your workflow configuration file directly within that folder (e.g., [`.github/workflows/replace-license-year.yml`](.github/workflows/replace-license-year.yml)).
 3. Commit and push the file to the default `main` branch of your template repository.
 
 ## ⚙️ Configuration
